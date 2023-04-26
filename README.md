@@ -1,2 +1,2 @@
-# -Coder-Chitta-Multilinear_Regression_Assignment
+# Multilinear_Regression_Assignment
  Coder-Chitta/Multilinear_Regression_Assignment
